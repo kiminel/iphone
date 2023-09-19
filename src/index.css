@@ -300,7 +300,7 @@ nav .link-styled {
   align-items: center;
   animation-name: fadeOut;
   animation-duration: 1s;
-  animation-delay: 8s;
+  animation-delay: 6s;
   animation-fill-mode: forwards;
   pointer-events: none;
 }

@@ -2,7 +2,7 @@
 
 ### Hosted Link:
 
-[iPhone](https://iphone-concept.vercel.app/)
+[iPhone Concept Website](https://iphone-concept.vercel.app/)
 
 ### Local Startup
 
